@@ -1,4 +1,4 @@
-Bureaucratic easing and Infrastructure projects in India: Data Scraping and Analysis  
+**Bureaucratic easing and Infrastructure projects in India: Data Scraping and Analysis**
 
 **Objective**:  
 This project aims to **analyze the impact of environmental clearances on both the economy and ecology** by leveraging data scraped from the **PARIVESH portal**. Infrastructure projects in India often encounter delays due to **bureaucratic inefficiencies in the clearance process**, impacting sustainable development. By studying key project milestones like initiation, clearance requests, approval times, and completion dates, this project seeks to identify bottlenecks and their implications for economic growth and ecological balance.
