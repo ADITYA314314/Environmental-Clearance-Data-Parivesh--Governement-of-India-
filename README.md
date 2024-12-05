@@ -1,4 +1,4 @@
-**Infrastructure Projects in India -Time taken to secure environmental Clearance**
+**Infrastructure Projects in India -Time taken to secure environmental clearance**
 
 **Data**:  
 PARIVESH (Pro-Active and Responsive facilitation by Interactive, Virtuous, and Environmental Single-window Hub) is a **government e-governance portal** designed for online submission, monitoring, and tracking of approvals for:  
