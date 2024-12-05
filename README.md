@@ -1,4 +1,4 @@
-****Publically Available Dataset**-  Infrastructure Projects and time taken to secure environmental Clearance**
+**Infrastructure Projects in India -Time taken to secure environmental Clearance**
 
 **Data**:  
 PARIVESH (Pro-Active and Responsive facilitation by Interactive, Virtuous, and Environmental Single-window Hub) is a **government e-governance portal** designed for online submission, monitoring, and tracking of approvals for:  
@@ -8,21 +8,15 @@ PARIVESH (Pro-Active and Responsive facilitation by Interactive, Virtuous, and E
 - **CRZ Clearance (CRZ Notification, 2011)**  
 
 
-**Objective**:  
-This project aims to **analyze the impact of environmental clearances on both the economy and ecology** by leveraging data scraped from the **PARIVESH portal**. Infrastructure projects in India often encounter delays due to **bureaucratic inefficiencies in the clearance process**, impacting sustainable development. By studying key project milestones like initiation, clearance requests, approval times, and completion dates, this project seeks to identify bottlenecks and their implications for economic growth and ecological balance.
-
-
 The portal streamlines clearance processes by integrating them under a single platform, providing features like **unique project IDs**, and automatic notifications to minimize delays. Despite these advancements, the **interlinked and complex approval system often causes significant delays**, impacting both environmental sustainability and economic development.  
 
-**Features of the Project**:  
-- **Data Extraction**: Automates scraping of clearance-related data from [PARIVESH Portal](https://parivesh.nic.in/#/).  
+**What do you find here?**:  
+- **Data Extraction**: Automated scraping code of clearance-related data from [PARIVESH Portal](https://parivesh.nic.in/#/).  
 - **Key Data Points**: Collects data on project initiation, clearance requests, granted clearance times, and project timelines.  
-- **Impact Analysis**: Examines how delays and approvals affect economic progress and ecological conservation.  
+- **Some Statistics around the Data**
 
+**Objective**:  
+This repository aims to **analyze the impact of environmental clearances on both the economy and ecology** by leveraging data scraped from the **PARIVESH portal**. Infrastructure projects in India often encounter delays due to **bureaucratic inefficiencies in the clearance process**, impacting sustainable development. By studying key project milestones like initiation, clearance requests, approval times, and completion dates, this project seeks to identify bottlenecks and their implications for economic growth and ecological balance.
 
-**Why This Matters**:  
-By integrating insights into clearance delays and their dual impact on **economy and ecology**, this project offers a comprehensive understanding of bottlenecks in sustainable development.  
-
-**Contribute**: Fork the repository, enhance the scraping or analysis tools, and join in exploring the **intersection of environmental governance, economic growth, and ecological balance**!
-
-**Suggestions needed and appreciated!!**
+**SUGGESTIONS NEEDED AND APPRECIATED!!**
+**THANKS**
